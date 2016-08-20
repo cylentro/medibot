@@ -40,15 +40,13 @@ to be added...
 - dataStorage.js: data layer 
 
 ## Programmer's Note ##
-- This project is a non-profit project
-- Currently i'm the only programmer for this bot, so expect very slow update
 - If you have some spare time and want contribute in this project, just fork this git and make a pull request
 - Any contribution, either small or big are really appreciated
 - Medibot is licensed under WTFPL, so just **Do What the Fuck You Want To** with this sourcecode
  
 ## Roadmap ##
-- adding more hospital information
 - scrapping doctors information from current listed hospital 
+- adding more hospital information
 - connecting the application to proper database
 
 ![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)
