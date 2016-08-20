@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "bot for checking doctor schedule",
   "main": "app.js",
+  "engines": {
+    "node": "6.3.1"
+  },
   "scripts": {
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +16,10 @@
     "schedule",
     "medical"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quicktukik/medibot"
+  },
   "author": "Christian Hadianto",
   "license": "WTFPL",
   "dependencies": {
