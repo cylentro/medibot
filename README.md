@@ -5,9 +5,9 @@ Medibot is a bot for searching Hospital and Doctor information in Indonesia
 Powered by [Microsoft BotFramework](https://dev.botframework.com/)
 
 ## Tools You Need ##
-[NodeJS](https://nodejs.org/en/)
-[Bot Emulator](https://docs.botframework.com/en-us/tools/bot-framework-emulator/)(Windows Only)
-[Visual Studio Code](https://code.visualstudio.com)
+- [NodeJS](https://nodejs.org/en/)
+- [Bot Emulator](https://docs.botframework.com/en-us/tools/bot-framework-emulator/)(Windows Only)
+- [Visual Studio Code](https://code.visualstudio.com)
 
 ## Installation ##
 
