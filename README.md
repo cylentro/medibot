@@ -50,3 +50,5 @@ to be added...
 - adding more hospital information
 - scrapping doctors information from current listed hospital 
 - connecting the application to proper database
+
+![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png)
