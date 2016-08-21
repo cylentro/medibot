@@ -3,6 +3,9 @@ Medibot
 
 Medibot is a bot for searching Hospital and Doctor information in Indonesia
 Powered by [Microsoft BotFramework](https://dev.botframework.com/)
+- telegram: [@idMedibot](https://telegram.me/idMedibot)
+- skype: [![](https://dev.botframework.com/Client/Images/Add-To-Skype-Buttons.png)](https://join.skype.com/bot/980d10e3-6c9b-4ec6-b89d-0bd5c30e0288)
+- facebook: @Medibotid (waiting for review)
 
 ## Tools You Need ##
 - [NodeJS](https://nodejs.org/en/)
